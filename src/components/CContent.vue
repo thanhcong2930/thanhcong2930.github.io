@@ -10,7 +10,7 @@
       I am a student at Ho Chi Minh City University of Education. My main job is <span class="font-semibold">web</span> development.
     </p>
     <div class="text-center">
-      <a href="#" class="transition appearance-none outline-none py-2 text-base px-6 sm:px-8 md:px-10 rounded-full text-white font-semibold text-center inline-block bg-blue-500 hover:bg-blue-600 focus:bg-blue-600 focus:ring focus:ring-blue-300">
+      <a href="#" class="appearance-none outline-none py-2 text-base px-6 sm:px-8 md:px-10 rounded-full text-white font-semibold text-center inline-block bg-blue-500 select-none transition-all hover:bg-blue-600 focus:bg-blue-600 focus:ring focus:ring-blue-300">
         Download CV
       </a>
     </div>
