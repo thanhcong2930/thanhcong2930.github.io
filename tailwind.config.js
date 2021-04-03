@@ -21,6 +21,9 @@ module.exports = {
       skew: {
         '8': '8deg'
       },
+      outline: {
+        0: 0,
+      },
       gradientColorStops: theme => ({
         'light-blue': {
           400: '#38bdf8'
