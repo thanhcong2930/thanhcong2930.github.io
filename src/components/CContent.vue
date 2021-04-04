@@ -1,12 +1,12 @@
 <template>
   <div class="text-center mt-22">
-    <h4 class="mb-3">Nguyễn Văn Công</h4>
+    <h4 class="dark:text-white mb-3">Nguyễn Văn Công</h4>
     <div class="mb-5 text-center">
       <div class="rounded-full inline-block px-4 py-1 bg-gray-200 text-gray-600 transition text-sm">
         Web Developer
       </div>
     </div>
-    <p class="text-black mb-5">
+    <p class="text-black dark:text-white mb-5">
       I'm a student at Ho Chi Minh City University of Education. My main job is <span class="font-semibold">web</span> development.
     </p>
     <div class="text-center">

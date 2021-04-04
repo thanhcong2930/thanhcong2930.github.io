@@ -1,13 +1,13 @@
-// const defaultTheme = require('tailwindcss/defaultTheme');
+const defaultTheme = require('tailwindcss/defaultTheme');
 
 module.exports = {
   purge: ['./index.html', './src/**/*.{vue,js,ts,jsx,tsx}'],
-  darkMode: false, // or 'media' or 'class'
+  darkMode: 'class', // or 'media' or 'class'
   theme: {
     extend: {
-      // fontFamily: {
-      //   sans: ['Nunito', ...defaultTheme.fontFamily.sans],
-      // },
+      fontFamily: {
+        sans: ['Source Sans Pro', ...defaultTheme.fontFamily.sans],
+      },
       margin: {
         18: '4.5rem',
         22: '5.5rem',
